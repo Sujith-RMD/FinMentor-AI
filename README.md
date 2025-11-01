@@ -1,6 +1,6 @@
 
 
-View your app in AI Studio: https://ai.studio/apps/drive/12mPRU3K4RyOEbJTkl-BnMsbkBb6DBOQ-
+View your app in AI Studio: (https://ai.studio/apps/drive/12mPRU3K4RyOEbJTkl-BnMsbkBb6DBOQ-)
 
 ## Run Locally
 
